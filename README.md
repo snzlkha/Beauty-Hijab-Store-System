@@ -1,5 +1,3 @@
-Introduction:
-
 The Beauty Hijab Store sells a variety of hijabs. The Beauty Hijab Store system is a mechanism that enables the cashier to key-in the type and variation of hijab based on the customer’s choice. The system is also used to calculate the total price for each transaction, generate bills, and count the total sales and the number of units sold based on the type of hijab sold in a day. The system works when the user, who is the cashier, enters the data needed, which is their username and password to access the system. Next, the user needs to check the availability of the hijab based on the type, variation, and price list provided. After
 that, the user needs to select the type and variation of hijab based on the customer’s choice. The system will calculate the total price of the items selected and display the bills for the
 transaction. Lastly, the system will calculate and display the total daily sales report and total units sold based on the type of hijab.
